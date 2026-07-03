@@ -171,3 +171,6 @@ If the webcam shows a black screen inside an embedded iframe, open the app direc
 ## License
 
 MIT
+
+---
+
